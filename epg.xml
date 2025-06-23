@@ -1,0 +1,9 @@
+<tv>
+  <channel id="tuneboxdigital">
+    <display-name>TuneboxDigital</display-name>
+  </channel>
+  <programme start="20250623200000 +0000" stop="20250623210000 +0000" channel="tuneboxdigital">
+    <title>Tuneboxdigital</title>
+    <desc>Pembelian dan langganan semula hanya boleh dibuat melalui WHATSAPP atau TELEGRAM TuneboxDigital sahaja di nombor 011 3109 2605.</desc>
+  </programme>
+</tv>
