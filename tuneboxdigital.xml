@@ -1,11 +1,11 @@
-<tv-generator-info-name="EPG Saya">
-  <channel-id="tuneboxdigital">
+<tv generator-info-name="EPG Saya">
+  <channel id="tuneboxdigital">
     <display-name>info</display-name>
   </channel>
 
-  <programme start="20250623020000 +0800" stop="20260624093000 +0800" channel-id="tuneboxdigital">
+  <programme start="20250623020000 +0800" stop="20260624093000 +0800" channel="tuneboxdigital">
     <title>info</title>
     <desc>Pembelian atau sambung langganan hanya boleh dibuat melalui Whatsapp dan Telegram Tuneboxdigital sahaja. Tiada penjual atau ejen di mana-mana platform pembelian online seperti TikTok, Facebook dan lain. Pembelian hanya boleh dibuat melalui Whatsapp dan Telegram Tuneboxdigital di nombor 011 3109 2605</desc>
-    <category> </category>
+    <category></category>
   </programme>
 </tv>
