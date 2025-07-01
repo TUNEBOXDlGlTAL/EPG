@@ -2,7 +2,7 @@
 <tv generator-info-name="TuneTV EPG Generator">
 
   <channel id="sonysport.ott">
-    <display-name>S O N Y  S P O R T</display-name>
+    <display-name>S O N Y  S P O R T   S O N Y  S P O R T</display-name>
     <icon src="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysport.png"/>
   </channel>
 
