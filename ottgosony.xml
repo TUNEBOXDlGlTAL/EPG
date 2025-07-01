@@ -3,12 +3,13 @@
 
   <channel id="sonysport.ott">
     <display-name>S O N Y  S P O R T</display-name>
-    <icon src="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png"/>
+    <icon src="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysport.png"/>
   </channel>
 
   <programme start="20250701080000 +0800" stop="20260701090000 +0800" channel="sonysport.ott">
-    <title lang="ms">S O N Y  S P O R T       S O N Y  S P O R T.</title>
+    <title lang="ms">S O N Y  S P O R T</title>
     <desc lang="ms">Pembelian hanya melalui Whatsapp dan Telegram OTT-GO di nombor 011 3109 2605.</desc>
-    <category 
-    e>
+    <category lang="ms">Sukan</category>
+  </programme>
+
 </tv>
